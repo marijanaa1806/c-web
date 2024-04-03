@@ -1,0 +1,15 @@
+﻿@model Dictionary<string, int>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Total Hours Worked</th>
+    </tr>
+    @foreach (var entry in Model)
+    {
+        <tr style="@(entry.Value < 100 ? "background-color: red;" : "")">
+            <td>@entry.Key</td>
+            <td>@entry.Value</td>
+        </tr>
+    }
+</table>
