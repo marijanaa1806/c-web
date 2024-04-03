@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RrEVFF8JIeJxH6oiNnz+wsU49lIGpkP6Yi8zdSQ+p/U+1UNvKYdmiY1O6Tga9WYhiCRhgTUU7GPnWNnjcfUsSg==",
+  "dgSpecHash": "ycMaMRjyv6J6z6LaQw7cfQBZh7en93TVJ0f6dTdi+Y+mggvf9D/5bQM7sGfvA1E6yr0Mqv5yNmkofE6Hjr5UTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\marijanavac\\Downloads\\csharp-main\\Employees\\Employees.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,12 @@
     "C:\\Users\\marijanavac\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
     "C:\\Users\\marijanavac\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
     "C:\\Users\\marijanavac\\.nuget\\packages\\microsoft.jsinterop\\3.1.0\\microsoft.jsinterop.3.1.0.nupkg.sha512",
+    "C:\\Users\\marijanavac\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
     "C:\\Users\\marijanavac\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\marijanavac\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\marijanavac\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\marijanavac\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\marijanavac\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512",
     "C:\\Users\\marijanavac\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
     "C:\\Users\\marijanavac\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\marijanavac\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
